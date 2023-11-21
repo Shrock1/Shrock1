@@ -5,5 +5,5 @@
 <img src="https://media.giphy.com/media/7hL4RfPDSaDNm/giphy.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ephesis&size=35&pause=1000&color=913DBA&random=false&width=452&height=58&lines=Computer+science+student%2C+medical+physicist+"alt="Typing SVG" /></a> 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY4dmEyc2UzOGxsaXEzeTA0OGx4M242ZnRpbmF1eHlyY2VoeDRkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yswBTU9gw2LvABtDu8/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY4dmEyc2UzOGxsaXEzeTA0OGx4M242ZnRpbmF1eHlyY2VoeDRkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yswBTU9gw2LvABtDu8/giphy.gif" width="300" height="100"/>
 </div>
