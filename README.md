@@ -9,5 +9,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhpeW1oYThraTl0NmVkM2dkM29vc3ZkcG1qNzc2anR6MzFiMmQ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nXprdF4nO7nUqelS4H/giphy.gif" width="300" height="210"/>
 </div>
-#:sparkles: About Me :
+### :sparkles: About Me :
 --- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
