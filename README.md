@@ -11,4 +11,4 @@
 </div>
 
 # :sparkles:About Me :
-## I am a Full Stack Developer <img src="https://media.giphy.com/media/wIIJT02xtU2PShamtc/giphy.gif" width="30"> from India.
+## I am a Full Stack Developer <img src="https://media.giphy.com/media/iGgOYsG46cijhcnKty/giphy.gif" width="30"> from India.
