@@ -11,4 +11,4 @@
 </div>
 
 # :sparkles:About Me :
-## I am a Medical Phesicist with a passion for programming and data scince <img src="https://media.giphy.com/media/iGgOYsG46cijhcnKty/giphy.gif" width="30"> .
+## I am a Medical Physicist with a passion for programming and data scince <img src="https://media.giphy.com/media/iGgOYsG46cijhcnKty/giphy.gif" width="100"> .
